@@ -97,7 +97,7 @@ img {
 }
 
 #home {
-    background-image: url(../images/https://github.com/bethechange99/WCBCAFE2/blob/main/images/main-bg.jpg?raw=true),linear-gradient(#c9ffbf, #ffafbd);
+    background-image: url(/images/https://github.com/bethechange99/WCBCAFE2/blob/main/images/main-bg.jpg?raw=true),linear-gradient(#c9ffbf, #ffafbd);
     background-blend-mode: luminosity;
     min-height: 100vh;
 }
